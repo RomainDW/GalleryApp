@@ -1,2 +1,0 @@
-# GalleryApp
-Created with CodeSandbox
